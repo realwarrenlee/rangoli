@@ -27,6 +27,6 @@ Open the URL printed in the terminal.
 
 ## Profile
 
-[Stewards of Intangible Cultural Heritage 2024 - Vijayalakshmi Mohan](https://www.youtube.com/watch?v=S7i09mka5ec) · [Roots Sg](https://www.youtube.com/channel/UCqj-dZ58ntJFxij7QUB94Uw)
+[Stewards of Intangible Cultural Heritage 2024 - Vijayalakshmi Mohan](https://www.youtube.com/watch?v=S7i09mka5ec)
 
 Mrs Vijayalakshmi Mohan has been a dedicated practitioner of rangoli with over 60 years of experience in the craft. She has created more than 8,000 rangolis in Singapore, and over 20,000 rangolis globally. Notably, she is the current Guinness World Record holder for the largest rangoli pattern created. As the founder of Singa Rangoli, she actively experiments with new materials and contemporary designs for her rangoli works. Beyond her own practice, Mrs Vijaya Mohan promotes rangoli through art classes and workshops, and trains a team of practitioners who conduct regular workshops for schools and community groups. As a trained arts therapist, she works with welfare organisations to conduct rangoli programmes for underserved communities.
