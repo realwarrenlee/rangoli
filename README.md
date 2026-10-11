@@ -1,6 +1,6 @@
 # A welcome that grows
 
-A Vite web experience for Common Ground Makeathon, with seven connected scroll chapters exploring Vijayalakshmi Mohan's practice of rangoli and the welcome it creates.
+A Vite web experience for **Common Ground Makeathon on 11 October 2026**, with seven connected scroll chapters exploring Vijayalakshmi Mohan's practice of rangoli and the welcome it creates.
 
 Use native scrolling; no clicks are required in the illustrated story. The operating system's reduced-motion preference automatically selects a complete illustrated reading version. The optional [Roots.sg](https://roots.sg/) film at the end loads when you click its play button.
 
